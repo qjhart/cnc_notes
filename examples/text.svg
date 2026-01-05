@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 60.988735 78.926598"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="text.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="0.89619809"
+     inkscape:cx="397.23361"
+     inkscape:cy="560.70193"
+     inkscape:window-width="1916"
+     inkscape:window-height="2103"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.861018;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-7"
+       cx="10.762718"
+       cy="10.762717"
+       r="10.332209" />
+    <g
+       id="g1"
+       transform="translate(-1.4304288,2.855081)">
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.66611px;font-family:Serif;-inkscape-font-specification:'Serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#317172;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="4.3957934"
+         y="6.9832754"
+         id="text2"
+         transform="scale(0.99169643,1.0083731)"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.66611px;font-family:Serif;-inkscape-font-specification:'Serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0;stroke-dasharray:none"
+           x="4.3957934"
+           y="6.9832754">UCD</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.66611px;font-family:Serif;-inkscape-font-specification:'Serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#317172;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="4.3819609"
+         y="11.534233"
+         id="text2-6"
+         transform="scale(0.99169643,1.0083731)"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           x="4.3819609"
+           y="11.534233"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.66611px;font-family:Serif;-inkscape-font-specification:'Serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0">craft</tspan><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           x="4.3819609"
+           y="18.616871"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.66611px;font-family:Serif;-inkscape-font-specification:'Serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0" /></text>
+    </g>
+  </g>
+</svg>
