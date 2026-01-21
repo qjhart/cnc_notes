@@ -1,2 +1,64 @@
-# cnc_notes
+* CNC Router information
+
 CNC examples
+
+[[https://www.cnccookbook.com/][CNC Cookbook]] is no longer beiong updated,  but has a lot of information.
+
+* Router bits overview
+
+This [[https://www.youtube.com/watch?v=hs9aLITp208][Woodcraft video]] is sort of a ad video, but you do get a good description of
+the use of most basic bits.
+
+Two other companies DIYer's seem to use are [[https://onsrud.com/][ONSRUD]] and [[https://bitsbits.com/][BitsBits]] which are both
+pretty expensive.
+
+
+* Chip Load / Feed Rate
+
+Depth should be about 1/2 diameter of bit (up to diameter for plywood)
+RPMS can be faster for smaller bits, but can also heat up if using default.
+Some home routers have a best HP to RPM around 12K rpm.
+
+** Overviews
+
+Great Introductory video of [[https://www.youtube.com/watch?v=IAbXRco6JY8][Chipload]], and how to get initial RPM and speed
+rate.
+
+This [[https://talk.dallasmakerspace.org/t/understanding-chipload-and-the-cnc-router/7893][makerspace]] page is a good description of chipload with a good chart range
+as well.  They talk about Gwizard (from CNC cookbook) as being too low.  They
+also have description about adjusting based on depth of cut, which isn't
+included in most.
+
+** Calculators
+
+https://zero-divide.net/fswizard , or [[https://app.fswizard.com/speed-and-feed-calculator][fswizard]], is the most comprehensive and
+gives good direction on how speeds are affected by inputs, but it's really more
+for high speed milling, although there are wood speeds. 
+
+https://www.custompartnet.com/widgets/milling-speed-feed is a pretty simple one
+to follow, and gives good results (comparable to fswizard)
+
+This is a very simple [[https://gdptooling.com/chipload-calc/?srsltid=AfmBOopeFTCDB7f_I7bJY2DpS9kVcY1JtfWnJz8GYt2u27FbgGR5RT7d][Chipload Calculator]], where you only adjust the speed and
+rpm, and aim for a specified chip load, from a chart.
+
+* Checklist
+
+- [X] Secure piece
+- [ ]cycle system
+- [ ] Verify within X,Y range
+- [ ] Verify Z-range
+- [ ] Verify Overall surface setting
+- [ ] Check Router Speed
+- [ ] Can you rehome to 0,0
+
+For each bit change:
+- [ ] Completely change bit
+- [ ] check for damage
+- [ ] Reset Z
+- [ ] Check router speed
+
+
+* Other Tools to inspect
+
+[[https://github.com/cnc-club/gcodetools][Inkscape gcodetools]]
+
