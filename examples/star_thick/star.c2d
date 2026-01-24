@@ -1,0 +1,614 @@
+{
+    "CURVE_OBJECTS": [
+        {
+            "behavior": 0,
+            "cp1": [
+                [
+                    74.67599487304688,
+                    36.57600021362305
+                ],
+                [
+                    74.67599487304688,
+                    16.375629425048828
+                ],
+                [
+                    17.899627685546875,
+                    0
+                ],
+                [
+                    1.5239962339401245,
+                    56.7763671875
+                ],
+                [
+                    58.30036544799805,
+                    73.15199863910675
+                ],
+                [
+                    74.67599487304688,
+                    38.09999465942383
+                ]
+            ],
+            "cp2": [
+                [
+                    74.67599487304688,
+                    36.57600021362305
+                ],
+                [
+                    58.30036544799805,
+                    0
+                ],
+                [
+                    1.5239962339401245,
+                    16.375629425048828
+                ],
+                [
+                    17.899627685546875,
+                    73.15199863910675
+                ],
+                [
+                    74.67599487304688,
+                    56.7763671875
+                ],
+                [
+                    74.67599487304688,
+                    38.09999465942383
+                ]
+            ],
+            "geometryType": "path",
+            "group_id": [
+            ],
+            "id": "{5ba035dd-c3ca-4a5a-828b-39c9ed8f70cd}",
+            "layer": {
+                "blue": 0,
+                "green": 0,
+                "locked": false,
+                "name": "DEFAULT",
+                "red": 0,
+                "uuid": "",
+                "visible": true
+            },
+            "point_type": [
+                0,
+                3,
+                3,
+                3,
+                3,
+                4
+            ],
+            "points": [
+                [
+                    74.67599487304688,
+                    36.57600021362305
+                ],
+                [
+                    38.09999465942383,
+                    0
+                ],
+                [
+                    1.5239962339401245,
+                    36.57600021362305
+                ],
+                [
+                    38.09999465942383,
+                    73.15199863910675
+                ],
+                [
+                    74.67599487304688,
+                    36.57600021362305
+                ],
+                [
+                    74.67599487304688,
+                    38.09999465942383
+                ]
+            ],
+            "position": [
+                0,
+                0
+            ],
+            "smooth": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "behavior": 0,
+            "cp1": [
+                [
+                    55.31393814086914,
+                    11.534687042236328
+                ],
+                [
+                    49.50900650024414,
+                    15.560966491699219
+                ],
+                [
+                    31.763280868530273,
+                    19.542503356933594
+                ],
+                [
+                    21.52696418762207,
+                    18.16545867919922
+                ],
+                [
+                    19.829904556274414,
+                    36.27299880981445
+                ],
+                [
+                    15.357056617736816,
+                    45.582786560058594
+                ],
+                [
+                    32.05393981933594,
+                    52.79232597351074
+                ],
+                [
+                    39.525882720947266,
+                    59.92314338684082
+                ],
+                [
+                    51.54218292236328,
+                    46.27134132385254
+                ],
+                [
+                    60.63294219970703,
+                    41.3686408996582
+                ],
+                [
+                    51.362545013427734,
+                    25.721817016601562
+                ],
+                [
+                    55.31393814086914,
+                    63.14130783081055
+                ]
+            ],
+            "cp2": [
+                [
+                    55.31393814086914,
+                    11.534687042236328
+                ],
+                [
+                    43.704071044921875,
+                    19.587249755859375
+                ],
+                [
+                    25.627422332763672,
+                    15.471473693847656
+                ],
+                [
+                    23.562366485595703,
+                    24.930458068847656
+                ],
+                [
+                    14.062040328979492,
+                    40.85053253173828
+                ],
+                [
+                    22.41993522644043,
+                    45.73750877380371
+                ],
+                [
+                    34.625057220458984,
+                    59.69242763519287
+                ],
+                [
+                    41.85558319091797,
+                    53.25375747680664
+                ],
+                [
+                    58.899085998535156,
+                    45.95830535888672
+                ],
+                [
+                    55.00990295410156,
+                    37.09200668334961
+                ],
+                [
+                    53.33823776245117,
+                    18.628253936767578
+                ],
+                [
+                    55.31393814086914,
+                    63.14130783081055
+                ]
+            ],
+            "geometryType": "path",
+            "group_id": [
+            ],
+            "id": "{b9f2c844-a36c-4fb5-a95c-2a14e9569f9e}",
+            "layer": {
+                "blue": 0,
+                "green": 0,
+                "locked": false,
+                "name": "DEFAULT",
+                "red": 0,
+                "uuid": "",
+                "visible": true
+            },
+            "point_type": [
+                0,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                4
+            ],
+            "points": [
+                [
+                    55.31393814086914,
+                    11.534687042236328
+                ],
+                [
+                    37.899139404296875,
+                    23.61353302001953
+                ],
+                [
+                    19.491565704345703,
+                    11.400444030761719
+                ],
+                [
+                    25.597766876220703,
+                    31.69546890258789
+                ],
+                [
+                    8.294177055358887,
+                    45.428062438964844
+                ],
+                [
+                    29.482812881469727,
+                    45.89223098754883
+                ],
+                [
+                    37.19618225097656,
+                    66.59252548217773
+                ],
+                [
+                    44.185279846191406,
+                    46.58437919616699
+                ],
+                [
+                    66.25598907470703,
+                    45.6452693939209
+                ],
+                [
+                    49.38685607910156,
+                    32.81538391113281
+                ],
+                [
+                    55.31393814086914,
+                    11.534687042236328
+                ],
+                [
+                    55.31393814086914,
+                    63.14130783081055
+                ]
+            ],
+            "position": [
+                0,
+                0
+            ],
+            "smooth": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    ],
+    "DOCUMENT_VALUES": {
+        "BACKGROUND_IMAGE": "AAAAAA==",
+        "BACKGROUND_OPACITY": 0.5,
+        "BACKGROUND_POSITION_X": 0,
+        "BACKGROUND_POSITION_Y": 0,
+        "BACKGROUND_ROTATION": 0,
+        "BACKGROUND_SCALE": 1,
+        "BACKGROUND_VISIBLE": false,
+        "DISPLAYMM": false,
+        "HEIGHT": 284.47999999999996,
+        "MACHINE": "Shapeoko 3",
+        "MACHINE_TYPE": "Shapeoko",
+        "MATERIAL": "Hardwood",
+        "RETRACT": 12.7,
+        "THICKNESS": 11.998959999999999,
+        "WIDTH": 482.59999999999997,
+        "ZERO_X": 0,
+        "ZERO_Y": 0,
+        "ZERO_Z": 0,
+        "build_num": 652,
+        "grid_enabled": true,
+        "grid_spacing": 6.35,
+        "minimum_build_num": 524,
+        "version": 1
+    },
+    "REQUIRES_PRO": false,
+    "TEXT_OBJECTS": [
+    ],
+    "TOOLPATH_GROUP_OBJECTS": [
+        {
+            "TOOLPATH_OBJECTS": [
+                {
+                    "angle": 0,
+                    "automatic_parameters": true,
+                    "elements": [
+                        {
+                            "uuid": "{b9f2c844-a36c-4fb5-a95c-2a14e9569f9e}"
+                        }
+                    ],
+                    "enabled": false,
+                    "end_depth": 1.27,
+                    "name": "star vcarve path",
+                    "pocket_enabled": true,
+                    "speeds": {
+                        "feedrate": 889,
+                        "plungerate": 304.79999999999995,
+                        "rpm": 18000
+                    },
+                    "speeds_pocket": {
+                        "feedrate": 254,
+                        "plungerate": 203.2,
+                        "rpm": 10000
+                    },
+                    "start_depth": 0,
+                    "stepdown": 2.032,
+                    "stepdown_pocket": 1.5239999999999998,
+                    "stepover": 0.2032,
+                    "stepover_pocket": 1.5748,
+                    "stock_to_leave": 0,
+                    "stock_to_leave_pocket": 2.54,
+                    "tolerance": 0.01,
+                    "tool": {
+                        "angle": 30,
+                        "corner_radius": 0,
+                        "diameter": 12.7,
+                        "display_mm": false,
+                        "finish_allowance": 0,
+                        "flutes": 2,
+                        "length": 6.35,
+                        "model": "302",
+                        "name": "",
+                        "number": 302,
+                        "overall_length": 3.175,
+                        "plungerate": 304.79999999999995,
+                        "read_only": true,
+                        "slot_depth": 2.032,
+                        "slot_feedrate": 889,
+                        "slot_rpm": 18000,
+                        "surfacing_feedrate": 889,
+                        "surfacing_rpm": 18000,
+                        "surfacing_stepover": 2,
+                        "type": 2,
+                        "url": "https://shop.carbide3d.com/products/302-0-50-v-bit-cutter-60-qty-2",
+                        "uuid": "{00000000-0000-0000-0000-000000000000}",
+                        "vendor": "Carbide 3D"
+                    },
+                    "tool_pocket": {
+                        "angle": 0,
+                        "corner_radius": 0,
+                        "diameter": 3.175,
+                        "display_mm": false,
+                        "finish_allowance": 2.54,
+                        "flutes": 2,
+                        "length": 12.7,
+                        "model": "",
+                        "name": "#102 1/8\" DEFAULT",
+                        "number": 102,
+                        "overall_length": 38.099999999999994,
+                        "plungerate": 203.2,
+                        "read_only": true,
+                        "slot_depth": 1.27,
+                        "slot_feedrate": 254,
+                        "slot_rpm": 10000,
+                        "surfacing_feedrate": 508,
+                        "surfacing_rpm": 10000,
+                        "surfacing_stepover": 20,
+                        "type": 0,
+                        "url": "",
+                        "uuid": "{b53fd63f-744d-4e12-b1bc-e8d0aa876108}",
+                        "vendor": ""
+                    },
+                    "type": "advanced_vcarve_toolpath",
+                    "uuid": "{930be07a-ab0a-4bd8-8f83-24c03591d511}"
+                }
+            ],
+            "enabled": true,
+            "name": "Group 1",
+            "uuid": "{770ffc5b-1fbf-4fd4-9241-9132c44f64f2}"
+        },
+        {
+            "TOOLPATH_OBJECTS": [
+                {
+                    "angle": 0,
+                    "automatic_parameters": true,
+                    "elements": [
+                        {
+                            "uuid": "{b9f2c844-a36c-4fb5-a95c-2a14e9569f9e}"
+                        }
+                    ],
+                    "enabled": false,
+                    "end_depth": 1.27,
+                    "name": "vcarve2",
+                    "pocket_enabled": false,
+                    "speeds": {
+                        "feedrate": 889,
+                        "plungerate": 304.79999999999995,
+                        "rpm": 18000
+                    },
+                    "speeds_pocket": {
+                        "feedrate": 254,
+                        "plungerate": 203.2,
+                        "rpm": 10000
+                    },
+                    "start_depth": 0,
+                    "stepdown": 2.032,
+                    "stepdown_pocket": 1.27,
+                    "stepover": 0.2,
+                    "stepover_pocket": 1.5875,
+                    "stock_to_leave": 0,
+                    "stock_to_leave_pocket": 2.54,
+                    "tolerance": 0.01,
+                    "tool": {
+                        "angle": 30,
+                        "corner_radius": 0,
+                        "diameter": 12.7,
+                        "display_mm": false,
+                        "finish_allowance": 0,
+                        "flutes": 2,
+                        "length": 6.35,
+                        "model": "302",
+                        "name": "",
+                        "number": 302,
+                        "overall_length": 3.175,
+                        "plungerate": 304.79999999999995,
+                        "read_only": true,
+                        "slot_depth": 2.032,
+                        "slot_feedrate": 889,
+                        "slot_rpm": 18000,
+                        "surfacing_feedrate": 889,
+                        "surfacing_rpm": 18000,
+                        "surfacing_stepover": 2,
+                        "type": 2,
+                        "url": "https://shop.carbide3d.com/products/302-0-50-v-bit-cutter-60-qty-2",
+                        "uuid": "{00000000-0000-0000-0000-000000000000}",
+                        "vendor": "Carbide 3D"
+                    },
+                    "tool_pocket": {
+                        "angle": 0,
+                        "corner_radius": 0,
+                        "diameter": 3.175,
+                        "display_mm": false,
+                        "finish_allowance": 2.54,
+                        "flutes": 2,
+                        "length": 12.7,
+                        "model": "",
+                        "name": "#102 1/8\" DEFAULT",
+                        "number": 102,
+                        "overall_length": 38.099999999999994,
+                        "plungerate": 203.2,
+                        "read_only": true,
+                        "slot_depth": 1.27,
+                        "slot_feedrate": 254,
+                        "slot_rpm": 10000,
+                        "surfacing_feedrate": 508,
+                        "surfacing_rpm": 10000,
+                        "surfacing_stepover": 20,
+                        "type": 0,
+                        "url": "",
+                        "uuid": "{b53fd63f-744d-4e12-b1bc-e8d0aa876108}",
+                        "vendor": ""
+                    },
+                    "type": "advanced_vcarve_toolpath",
+                    "uuid": "{0a539bce-927d-42e4-a770-0200440d9340}"
+                }
+            ],
+            "enabled": true,
+            "name": "Group 2",
+            "uuid": "{fd5a8e01-b74c-4043-be73-daacc6ecacb7}"
+        },
+        {
+            "TOOLPATH_OBJECTS": [
+                {
+                    "automatic_parameters": true,
+                    "elements": [
+                        {
+                            "tab_index": [
+                                0,
+                                0,
+                                0
+                            ],
+                            "tab_u": [
+                                0.24999998554645386,
+                                0.5915060201822897,
+                                0.9084940091827832
+                            ],
+                            "uuid": "{5ba035dd-c3ca-4a5a-828b-39c9ed8f70cd}"
+                        }
+                    ],
+                    "enabled": true,
+                    "end_depth": 9.652,
+                    "name": "cutout",
+                    "ofset_dir": 1,
+                    "speeds": {
+                        "feedrate": 2032,
+                        "plungerate": 304.79999999999995,
+                        "rpm": 10000
+                    },
+                    "start_depth": 0,
+                    "stepdown": 1.5239999999999998,
+                    "stepover": 3,
+                    "tab_height": 3.175,
+                    "tab_width": 6.35,
+                    "tolerance": 0.01,
+                    "tool": {
+                        "angle": 0,
+                        "corner_radius": 0,
+                        "diameter": 6.35,
+                        "display_mm": false,
+                        "finish_allowance": 0.508,
+                        "flutes": 3,
+                        "length": 19.049999999999997,
+                        "model": "201",
+                        "name": "",
+                        "number": 201,
+                        "overall_length": 3.175,
+                        "plungerate": 304.79999999999995,
+                        "read_only": true,
+                        "slot_depth": 1.016,
+                        "slot_feedrate": 1524,
+                        "slot_rpm": 18000,
+                        "surfacing_feedrate": 1524,
+                        "surfacing_rpm": 18000,
+                        "surfacing_stepover": 10,
+                        "type": 0,
+                        "url": "https://shop.carbide3d.com/products/201-25-end-mill-cutter-qty-2",
+                        "uuid": "{00000000-0000-0000-0000-000000000000}",
+                        "vendor": "Carbide 3D"
+                    },
+                    "uuid": "{dbb58b6d-755e-4f78-aaec-455f228aba77}"
+                }
+            ],
+            "enabled": true,
+            "name": "Group 3",
+            "uuid": "{80fef77f-054b-427e-87de-058d6b9659bc}"
+        }
+    ],
+    "active_layer": "",
+    "layers": [
+        {
+            "blue": 0,
+            "green": 0,
+            "locked": false,
+            "name": "DEFAULT",
+            "red": 0,
+            "uuid": "",
+            "visible": true
+        }
+    ]
+}
+
+
+
+
+MODELV1
+
+
+
+xE‡Q	 0D7Æ2,À0†XÚ
+f°†Nð}Ü½· ùÆê‚ŠþáÝšO©@£

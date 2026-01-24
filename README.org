@@ -41,22 +41,6 @@ to follow, and gives good results (comparable to fswizard)
 This is a very simple [[https://gdptooling.com/chipload-calc/?srsltid=AfmBOopeFTCDB7f_I7bJY2DpS9kVcY1JtfWnJz8GYt2u27FbgGR5RT7d][Chipload Calculator]], where you only adjust the speed and
 rpm, and aim for a specified chip load, from a chart.
 
-* Checklist
-
-- [X] Secure piece
-- [ ]cycle system
-- [ ] Verify within X,Y range
-- [ ] Verify Z-range
-- [ ] Verify Overall surface setting
-- [ ] Check Router Speed
-- [ ] Can you rehome to 0,0
-
-For each bit change:
-- [ ] Completely change bit
-- [ ] check for damage
-- [ ] Reset Z
-- [ ] Check router speed
-
 
 * Other Tools to inspect
 
